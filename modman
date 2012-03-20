@@ -1,0 +1,6 @@
+# Feedreader deploy instructions
+src/app/code/community/Flagbit app/code/community/Flagbit
+src/app/design/frontend/base/default/layout/feedreader.xml app/design/frontend/base/default/layout/feedreader.xml
+src/app/design/frontend/base/default/template/feedreader/ app/design/frontend/base/default/template/feedreader
+src/app/etc/modules/Flagbit_FeedReader.xml app/etc/modules/Flagbit_FeedReader.xml
+src/skin/frontend/base/default/css/feedreader.css skin/frontend/base/default/css/feedreader.css
